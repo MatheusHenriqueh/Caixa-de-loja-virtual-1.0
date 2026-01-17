@@ -1,6 +1,6 @@
 # Loja Simples (Caixa de Mercado)
 
-**Autor:** Matheus Ruivo  
+**Autor:** Matheus Henrique
 **Data:** 2025-10-08  
 **Linguagem:** Python  
 
